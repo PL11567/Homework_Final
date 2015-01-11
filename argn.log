@@ -1,0 +1,107 @@
+     ARGN Site Information Form (site log)
+     International GPS Service
+     See Instructions at:
+       ftp://igscb.jpl.nasa.gov/pub/station/general/sitelog_instr.txt
+
+0.   Form
+
+     Prepared by (full name)  : Rui Fernandes
+     Date Prepared            : 2010-12-25
+     Report Type              : (NEW/UPDATE)
+     If Update:
+      Previous Site Log       : (ssss_ccyymmdd.log)
+      Modified/Added Sections : (n.n,n.n,...)
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Mogan
+     Four Character ID        : ARGN
+     Monument Inscription     : 
+     IERS DOMES Number        : 31320F056
+     CDP Number               : (A4)
+     Monument Description     : (PILLAR/BRASS PLATE/STEEL MAST/etc)
+       Height of the Monument : (m)
+       Monument Foundation    : (STEEL RODS, CONCRETE BLOCK, ROOF, etc)
+       Foundation Depth       : (m)
+     Marker Description       : (CHISELLED CROSS/DIVOT/BRASS NAIL/etc)
+     Date Installed           : 2010-07-01T00:00Z
+     Geologic Characteristic  : (BEDROCK/CLAY/CONGLOMERATE/GRAVEL/SAND/etc)
+       Bedrock Type           : (IGNEOUS/METAMORPHIC/SEDIMENTARY)
+       Bedrock Condition      : (FRESH/JOINTED/WEATHERED)
+       Fracture Spacing       : (1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+       Fault zones nearby     : (YES/NO/Name of the zone)
+         Distance/activity    : (multiple lines)
+     Additional Information   : (multiple lines)
+
+
+2.   Site Location Information
+
+     City or Town             : Mogan
+     State or Province        : Gran Canaria
+     Country                  : Spain
+     Tectonic Plate           : NUBI
+     Approximate Position (ITRF)
+       X coordinate (m)       : 5437936.6984
+       Y coordinate (m)       : -1526630.3437
+       Z coordinate (m)       : 2953126.1770
+       Latitude (N is +)      : +274539.06313
+       Longitude (E is +)     : +3441906.09634
+       Elevation (m,ellips.)  : 67.8
+     Additional Information   : (multiple lines)
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : LEICA GRX1200GNSS
+     Satellite System         : (GPS/GLONASS/GPS)
+     Serial Number            : 00000
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : 2010-07-01T00:00   z
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS/GLONASS/GPS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : LEIAX1203GNSS  NONE
+     Serial Number            : 34563456
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  : 0.0000
+     Marker->ARP North Ecc(m) : 0.0000
+     Marker->ARP East Ecc(m)  : 0.0000
+     Alignment from True N    : 0.0000
+     Antenna Radome Type      : NONE
+     Radome Serial Number     :
+     Antenna Cable Type       :
+     Antenna Cable Length     : 30m (m)
+     Date Installed           : 2010-07-01T00:00 z
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : teste  teste teste 
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : 000.0000
+     Marker->ARP North Ecc(m) : 000.0000
+     Marker->ARP East Ecc(m)  : 000.0000
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : NONE from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
